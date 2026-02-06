@@ -1,2 +1,3 @@
 Just getting my systems setup to start playing with copilot
 we are just getting started
+it seems like that the setup is complete on this machine, we should be in a good place to begin real code fun
